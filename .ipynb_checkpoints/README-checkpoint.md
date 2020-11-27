@@ -1,5 +1,4 @@
-
-# Data Modeling with Postgres
+# **Data Modeling with Postgres**
 
 
 
@@ -87,8 +86,4 @@ The ```create_tables.py``` and ```etl.py``` file can also be run independently a
 ```
 python create_tables.py 
 python etl.py 
-```
-
-
-
-
+ 
