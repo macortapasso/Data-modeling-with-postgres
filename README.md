@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 # Data Modeling with Postgres
+=======
+# **Data Modeling with Postgres**
+>>>>>>> 956e2165c35460e7ce21e0f9dccd82980eab95f8
 
 
 
@@ -87,8 +91,12 @@ The ```create_tables.py``` and ```etl.py``` file can also be run independently a
 ```
 python create_tables.py 
 python etl.py 
+<<<<<<< HEAD
 ```
 
 
 
 
+=======
+ 
+>>>>>>> 956e2165c35460e7ce21e0f9dccd82980eab95f8
